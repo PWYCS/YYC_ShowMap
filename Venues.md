@@ -1,0 +1,71 @@
+### Multi-Venue Sites
+- Live Nation (the great satan himself)
+  - https://www.livenation.com/search?q=calgary#venue
+- Calgary Theatre
+  - https://www.calgary-theatre.com/theaters/southern-alberta-jubilee-auditorium/theater.php
+- SongKick
+  - https://www.songkick.com/metro-areas/27359-canada-calgary  
+- ShowPass
+  - https://www.showpass.com/discover/calgary/highlights/
+- Eventbrite
+  - https://www.eventbrite.ca/d/canada--calgary/calgary/?page=2
+- JamBase
+  - https://www.jambase.com/venues
+- Bandsintown
+
+
+### Sites Per Venue
+- The Palace Theatre
+  - https://www.thepalacetheatre.ca/events
+- Modern Love
+  - https://www.ticketweb.ca/venue/modern-love-calgary-ab/539955
+- Arts Commons/Jack Singer
+  - https://www.artscommons.ca/whats-on
+- Palomino
+  - https://thepalomino.ca/live-events/
+- Dickens
+  - https://www.songkick.com/venues/719611-dickens/calendar
+  - https://www.ticketweb.ca/venue/dickens-pub-calgary-ab/213154
+  - https://www.eventbrite.ca/o/dickens-22927194740
+- The Blues Can
+  - https://www.thebluescan.com/Events.php
+- Festival Hall
+  - https://www.calgary-theatre.com/theaters/calgary-folk-music-festival-hall/theater.php
+- Commonwealth
+  - https://www.commonwealthbar.ca/events
+- Cowboy's
+  - Looks like a ShowPass shop
+- Cafe Gravity
+  - Songkick has some Gravity
+- King Eddy
+  - https://kingeddy.ca/whats-on/
+- Ranchman's
+  - https://www.ranchmans.ca/events/calendar/category/ticketed-events/
+- Whisky Rose
+  - https://whiskeyrosesaloon.com/events/
+- Bella Concert Hall
+  - https://tickets.mru.ca/performancelisting.asp?venuename=Bella+Concert+Hall&venue=2
+- Grey Eagle
+  - https://www.greyeagleresortandcasino.ca/events/
+  - 
+- Mac Hall
+  - https://www.machallconcerts.com/event/
+  - https://www.livenation.com/venue/KovZpaKVpe/macewan-hall-events
+- Southern Alberta Jubilee Auditorium
+  - https://www.jubileeauditorium.com/calgary/whats-on
+- Knox United
+  - SongKick, EventBrite should catch these
+- Studio Bell
+  - https://www.studiobell.ca/whats-on
+- Back Alley
+  - https://backalleycalgary.com/event-dates/
+- Rated Ultra Lounge
+  - https://www.ratedultralounge.com/events'
+- Sub Rosa
+  - https://www.subrosayyc.com/news/
+- Fort Calgary
+  - EventBrite, SongKick
+- Idle Eyes Collective
+  - https://www.eventbrite.ca/o/idle-eyes-collective-58363715063
+- Mikey's
+  - https://www.mikeyson12th.com/events-1
